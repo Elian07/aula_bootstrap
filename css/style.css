@@ -1,0 +1,58 @@
+body{
+    font: 20px Arial, sans-serif
+}
+.navbar{
+    background-color: white;
+
+    
+}
+
+
+.text-home{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    opacity: 0.7;
+    font-size: 4em;
+    color:  white
+}
+.home{
+    background-image: url('../home.jpg');
+    background-size: 70em;
+    width: 67.5em;
+    height: 40em;
+    opacity: 0.7;
+    
+}
+.img_logo{
+    width: 130px;
+}
+
+.margin{
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+
+.sobre{
+    background-color: #FBE3DE;
+    color: #AD918B
+}
+
+.parceiros{
+    background-color: #FBE3DE;
+    color: #AD918B;
+    opacity: 0.7;
+}
+.acoes{
+    background-color: #C6AEA9;
+    color: white
+}
+
+.contatos{
+    background-color: #C6AEA9;
+    color: white
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    padding-bottom: 10px;
+}
